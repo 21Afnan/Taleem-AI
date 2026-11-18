@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1B7F5A,100:7CF5C4&height=210&section=header&text=Taleem%20AI&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Curriculum-grounded%20bilingual%20AI%20tutor%20for%20Pakistani%20students&descSize=16&descAlignY=58" width="100%" alt="Taleem AI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0D2E,50:C2185B,100:FF8FC7&height=210&section=header&text=Taleem%20AI&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Curriculum-grounded%20bilingual%20AI%20tutor%20for%20Pakistani%20students&descSize=16&descAlignY=58" width="100%" alt="Taleem AI"/>
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -102,13 +102,13 @@ For a demo, feedback or collaboration:
 <div align="center">
 
 <a href="mailto:afnanshoukat35@gmail.com?subject=Taleem%20AI">
-  <img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-7CF5C4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B3D2E" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4A0D2E" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/afnanshoukat">
-  <img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-7CF5C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B3D2E" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A0D2E" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/21Afnan">
-  <img src="https://img.shields.io/badge/GitHub-21Afnan-7CF5C4?style=for-the-badge&logo=github&logoColor=white&labelColor=0B3D2E" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-21Afnan-FF4FA3?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0D2E" alt="GitHub"/>
 </a>
 
 </div>
